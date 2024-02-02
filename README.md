@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" scr="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+<img align="right" alt="Coding" width="400" scr="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulsoftdev&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulsoftdev" /> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoRB-I3o8XnEaxKQkOK-l0G4AIlIj9VmrFg&usqp=CAU" alt="nazmulsoftdev" /> </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
