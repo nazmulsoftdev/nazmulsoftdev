@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoRB-I3o8XnEaxKQkOK-l0G4AIlIj9VmrFg&usqp=CAU" alt="nazmulsoftdev" /> </p>
+<p align="left"> <img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoRB-I3o8XnEaxKQkOK-l0G4AIlIj9VmrFg&usqp=CAU" alt="nazmulsoftdev" /> </p>
 
 - 🔭 I’m currently working on **Vexa Web App**
 
