@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulsoftdev&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulsoftdev" /> </p>
 
+<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="coding" /> </p>
+
 - 🔭 I’m currently working on **Vexa Web App**
 
 - 🌱 I’m currently learning **DevOps**
