@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazmul Islam</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" scr="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 <p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoRB-I3o8XnEaxKQkOK-l0G4AIlIj9VmrFg&usqp=CAU" alt="nazmulsoftdev" /> </p>
 
